@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  background-color: #ecf0f1;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  display: block;
+  background-color: #2c3e50;
+  text-align: center;
+}
+#left {
+  margin-right: 35%;
+}
+.row {
+  display: inline-block;
+}
+.color {
+  padding: 2rem;
+  color: white;
+}
+
+#left {
+  /* border: 2px solid black; */
+  color: #2980b9;
+}
+
+section {
+  position: relative;
+  border: 2px solid black;
+  display: block;
+  right: 0;
+  margin: 2%;
+  margin-left: 18%; 
+  /* padding: 25%;     */
+  background-color: white;
+  width: 70%;
+  height: 900px;
+}
+
+.rows-main {
+  display: inline-block;
+}
+
+.div {
+  position: absolute;
+  right: 0;
+  padding: 1.5%;
+}
+
+.right {
+  padding: 3px;
+  width: 5rem;
+  height: 2rem;
+}
+.h1 {
+  margin: 1%;
+}
+.row-div {
+  /* border: 2px solid black; */
+  display: inline-block;
+  margin: 1.5rem;
+
+}
+
+#save{
+    background-color: #27ae60;
+}
+#delete{
+    background-color: #e74c3c;
+}
+form {
+  /* border: 2px solid black; */
+  background-color: #f5f7fa;
+}
+
+.text-line{
+    text-align: center;
+}
+textarea{
+  border: 2px solid black;
+    width: 90%;
+    height: 450px;
+}
+main{
+    position: relative;
+  border: 2px solid black;
+
+}
+.as{
+    border: 2px solid black;
+    display: inline-block;
+}
+aside{
+    position: absolute;
+    width: 15%;
+    margin: 2%;
+}
